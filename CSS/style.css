@@ -1,3 +1,19 @@
-body {
 
+#frame {
+	margin-left:850px;
+	width:420px;
+	height:420px;
+	border:1px solid white;
 }
+
+
+
+#spring, #summer, #fall, #winter{
+	float:left;
+	display:inline;
+	width:207px;
+	height:207px;
+	border:1px solid black;
+}	
+
+
